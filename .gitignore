@@ -4,3 +4,6 @@ __pycache__/
 .env
 fd_rates.db
 sample_bulk.pdf
+node_modules/
+.next/
+
