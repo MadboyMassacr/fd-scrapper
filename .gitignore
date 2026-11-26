@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+fd_rates.db
+sample_bulk.pdf
